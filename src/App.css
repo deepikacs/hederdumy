@@ -33,16 +33,17 @@
 /* .mycontent-left { */
   /* border-right: 2px solid grey; */
 /* } */
-.content{
+/*.content{
   margin-left: 19px;
 }
 .right{
   margin-left: -9px;
 }
 .search{
-  margin-right: 10px;
-}
-.abc{
+  /*margin-right: 10px;*/
+      /*margin-left: -31px;*/
+/*}*/
+.verticleline{
   border-left: 1px solid grey;
   height: 39px;
   top: 8px;
@@ -50,7 +51,24 @@
 input {
   background-color: transparent;
   border: 0px solid;
-  /* height: 20px;
-  width: 160px;
-  color: #CCC; */
+  margin-left: 12px;
+  
 }
+.margin-left20{
+  margin-left: 20px;
+  }
+  .mginleft-27{
+        margin-left: -27px;       
+      }
+.marginleft-10{
+     margin-left: -10px;
+ }
+ .mgnleft15{
+            margin-left: 15px;
+  }
+  .gly-rotate-80 {
+  transform: rotate(80deg);
+}
+.gly-rotate-252 {
+   transform: rotate(252deg);
+                }
