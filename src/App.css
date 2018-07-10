@@ -58,17 +58,23 @@ input {
   margin-left: 20px;
   }
   .mginleft-27{
-        margin-left: -27px;       
-      }
+     margin-left: -27px;       
+  }
 .marginleft-10{
      margin-left: -10px;
  }
  .mgnleft15{
-            margin-left: 15px;
+  margin-left: 15px;
   }
   .gly-rotate-80 {
   transform: rotate(80deg);
 }
 .gly-rotate-252 {
    transform: rotate(252deg);
-                }
+}
+/* .container {
+  width: 1225px;
+} */
+.row-edit{
+  width:1209px;
+}

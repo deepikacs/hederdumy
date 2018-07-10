@@ -1,0 +1,223 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should mount Header component 1`] = `
+<Uncontrolled(Navbar)
+  bsStyle="default"
+  expand="md"
+>
+  <Grid
+    bsClass="container"
+    componentClass="div"
+    fluid={false}
+  >
+    <Row
+      bsClass="row"
+      className="row-edit"
+      componentClass="div"
+    >
+      <Col
+        bsClass="col"
+        componentClass="div"
+        md={12}
+        xs={12}
+      >
+        <NavbarCollapse>
+          <Nav
+            bsClass="nav"
+            justified={false}
+            pullLeft={false}
+            pullRight={false}
+            stacked={false}
+          >
+            <NavItem
+              active={false}
+              disabled={false}
+              eventKey={1}
+              href="#"
+            >
+              <i
+                aria-hidden="true"
+                className="fa fa-repeat"
+              />
+            </NavItem>
+            <NavItem
+              active={false}
+              disabled={false}
+              eventKey={2}
+              href="#"
+            >
+              <i
+                aria-hidden="true"
+                className="fa fa-play "
+              />
+            </NavItem>
+            <NavItem
+              active={false}
+              disabled={false}
+              eventKey={3}
+              href="#"
+            >
+              <i
+                aria-hidden="true"
+                className="fa fa-pause"
+              />
+            </NavItem>
+            <NavItem
+              active={false}
+              disabled={false}
+              eventKey={4}
+              href="#"
+            >
+              <i
+                aria-hidden="true"
+                className="fa fa-undo"
+              />
+            </NavItem>
+            <NavItem
+              active={false}
+              disabled={false}
+              eventKey={5}
+              href="#"
+            >
+              <i
+                aria-hidden="true"
+                className="fa fa-undo gly-rotate-252"
+              />
+            </NavItem>
+            <NavItem
+              active={false}
+              disabled={false}
+              eventKey={6}
+              href="#"
+            >
+              <i
+                aria-hidden="true"
+                className="fa fa-undo gly-rotate-80"
+              />
+            </NavItem>
+            <NavItem
+              active={false}
+              className="verticleline"
+              disabled={false}
+              eventKey={7}
+              href="#"
+            />
+            <NavItem
+              active={false}
+              disabled={false}
+              eventKey={8}
+              href="#"
+            >
+              <i
+                aria-hidden="true"
+                className="fa fa-search mginleft-27"
+              />
+              <input
+                placeholder="shipment ID/Invoice Number"
+                type="text"
+              />
+            </NavItem>
+            <NavItem
+              active={false}
+              className="verticleline"
+              disabled={false}
+              eventKey={9}
+              href="#"
+            />
+            <NavItem
+              active={false}
+              disabled={false}
+              eventKey={10}
+              href=""
+            >
+              <i
+                aria-hidden="true"
+                className="fa fa-chevron-left mginleft-27"
+              />
+              <span
+                className="margin-left20"
+              >
+                Last 24 hours
+              </span>
+            </NavItem>
+            <NavItem
+              active={false}
+              disabled={false}
+              eventKey={11}
+              href="#"
+            >
+              <i
+                aria-hidden="true"
+                className="fa fa-chevron-right marginleft-10"
+              />
+              <span
+                className="mgnleft15"
+              >
+                June 12th 10:00 hrs to June 13th 10:00 hrs
+              </span>
+            </NavItem>
+            <NavItem
+              active={false}
+              className="verticleline"
+              disabled={false}
+              eventKey={12}
+              href="#"
+            />
+            <NavItem
+              active={false}
+              disabled={false}
+              eventKey={13}
+              href="#"
+            >
+              <i
+                aria-hidden="true"
+                className="fa fa-file-image-o mginleft-27 "
+              />
+            </NavItem>
+            <NavItem
+              active={false}
+              className="verticleline"
+              disabled={false}
+              eventKey={14}
+              href="#"
+            />
+            <NavItem
+              active={false}
+              disabled={false}
+              eventKey={15}
+              href="#"
+            >
+              <i
+                aria-hidden="true"
+                className="fa fa-share-alt mginleft-27"
+              />
+            </NavItem>
+            <NavItem
+              active={false}
+              disabled={false}
+              eventKey={16}
+              href="#"
+            >
+              <i
+                aria-hidden="true"
+                className="fa fa-th-list"
+              />
+            </NavItem>
+            <NavItem
+              active={false}
+              disabled={false}
+              eventKey={17}
+              href="#"
+            >
+              <i
+                aria-hidden="true"
+                className="fa fa-database"
+              />
+            </NavItem>
+          </Nav>
+        </NavbarCollapse>
+      </Col>
+    </Row>
+  </Grid>
+</Uncontrolled(Navbar)>
+`;
